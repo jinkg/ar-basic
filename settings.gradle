@@ -1,1 +1,1 @@
-include ':ARCore'
+include ':arcore', ':arbusiness'
